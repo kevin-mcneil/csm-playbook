@@ -33,14 +33,12 @@ Goal: Understand what each persona cares about.
 
 Prompt skeleton:
 
-"For each of those stakeholders, please summarize the following in a table, one stakeholder per row:
-- What business outcomes and metrics matter most to this stakeholder
-- How they typically measure success
-- Common challenges they face
-- How our solution addresses these challenges
-- What risks might cause them to disengage or question our value"
-
-This becomes your persona cheat sheet.
+"For each of those stakeholders, please summarize the following points in tabular format, with each point as a column header and each stakeholder as its row:
+--> What business outcomes and metrics matter most to this stakeholder
+--> How this stakeholder typically measures success in their role
+--> Common challenges this stakeholder faces when trying to achieve their goals
+--> How our solution specifically addresses these challenges and supports their success metrics
+--> What risks might cause this stakeholder to disengage or question our value"
 
 ---
 
@@ -52,20 +50,24 @@ Prompt skeleton:
 
 "Using the stakeholder table we created, generate four communication templates:
 
-1. An introduction email for a new stakeholder explaining our partnership vision
-2. A Quarterly Business Review summary email highlighting value delivered to their department
-3. An at risk account message addressing potential adoption challenges
-4. An expansion opportunity message tied to their business objectives
+- An introduction email for a new stakeholder explaining our partnership vision
+- A QBR summary highlighting value delivered to their specific department
+- An at-risk account message addressing potential adoption challenges
+- An expansion opportunity message tied to their business objectives
 
 For each template:
-- Open with a specific pain point or opportunity relevant to their role
-- Acknowledge their current approach and its limitations
-- Explain how our solution delivers unique value for their situation
-- Include a clear next step
 
-Keep each message under one hundred fifty words, easily scannable, and jargon free."
+1) Open with a specific pain point or opportunity relevant to their role
+2) Acknowledge their current approach and its limitations
+3) Explain how our solution delivers unique value for their situation
+4) Include a clear next step or action item
 
-You can then lightly edit the outputs to match:
+Keep it under 150 words and easily scannable
+Use straightforward, jargon-free language."
+
+---
+
+>You can then lightly edit the outputs to match:
 - Your tone
 - Your product
 - Your customer context
