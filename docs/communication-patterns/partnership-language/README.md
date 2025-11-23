@@ -18,24 +18,24 @@ To maintain predictable, high-trust communication by using deliberate, repeatabl
 
 ### When Asking for Something
 
-- “Thank you for the collaboration — next step on our end is ___. What do you need from us to keep this moving?”
+- “Thank you for the collaboration - next step on our end is ___. What do you need from us to keep this moving?”
 - “I appreciate the teamwork here. To stay ahead of the timeline, here’s what we recommend next.”
-- “Thanks for driving this forward — let’s align on responsibilities.”
+- “Thanks for driving this forward - let’s align on responsibilities.”
 
 ### When Delivering Bad News / Tough Feedback
 
 - “Thank you for the collaboration, especially as we work through this challenge.”
 - “Appreciate your partnership as we navigate this.”
-- “Thank you for your patience and collaboration — here’s our path forward.”
+- “Thank you for your patience and collaboration - here’s our path forward.”
 
 ### During Escalations
 
 - “Thank you for collaborating so quickly on this.”
 - “I appreciate everyone’s partnership as we resolve this.”
-- “Thanks for the alignment — we’ll keep communication tight.”
+- “Thanks for the alignment - we’ll keep communication tight.”
 
 ### During Renewal / Expansion Discussions
 
 - “Thank you for the continued partnership.”
 - “We appreciate the collaboration so far and are excited to build on this.”
-- “Thanks for working closely with us this year — we’re seeing strong momentum.”
+- “Thanks for working closely with us this year - we’re seeing strong momentum.”
