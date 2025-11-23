@@ -37,7 +37,8 @@ A typical CSM day might look like:
        - An offer to connect.
 
 6. Learning or Deep Work
-   - Use your learning block to:
-     - Explore new product features.
-     - Read a relevant article or internal document.
-     - Practice a new workflow you might show customers.
+   - Use your designated learning block (from your weekly operating rhythm) to:
+      - Explore new product features.
+      - Read a relevant article or internal document.
+      - Practice a new workflow you might show customers.
+   These blocks are scheduled periods for deeper learning, separate from any urgent learning you may need to do in    the moment.
