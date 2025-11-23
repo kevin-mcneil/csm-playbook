@@ -67,10 +67,11 @@ For each template:
 - Explain how our solution delivers unique value for their situation  
 - Include a clear next step or action item  
 - Keep it under 150 words and easily scannable  
-- Use straightforward, jargon-free language.  
+- Use straightforward, jargon-free language.
+
+---
 
 >You can then lightly edit the outputs to match:
-
 >- Your tone  
 >- Your product  
 >- Your customer context  
