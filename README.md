@@ -21,14 +21,4 @@ All sections are organized into folders under /docs. Each section contains its f
 - [Learning and Craft Development](./learning-and-craft-development/README.md)
 - [First 90 Days Checklist](./first-90-days/README.md)
 
-## Templates and Extended Resources
-
-- [QBR Template](./qbr-template/README.md)
-- [Success Plan Template](./success-plans/README.md)
-- [Onboarding Framework](./onboarding-framework/README.md)
-- [Email Library](./communication/email-templates/README.md)
-- [Call Frameworks](./call-frameworks/README.md)
-- [Persona Guides](./persona-guides/README.md)
-- [AI Prompts](./ai-prompts/README.md)
-
 This playbook is a living system. Templates, prompts, and workflows will evolve.
