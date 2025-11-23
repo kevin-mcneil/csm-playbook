@@ -19,7 +19,7 @@ Our solution delivers these outcomes:
 [Outcome 3]  
 [Outcome 4]
 
-Help me build a stakeholder map. Include anyone who might be influenced by our product, who might have a project that touches our product, or anyone who might be involved in the buying committee. Which stakeholders and departments should I prioritize for relationship building to ensure successful adoption and expansion?"
+Help me build a stakeholder map. Include anyone who might be influenced by our product, who might have a project that touches our product, or anyone who might be involved in the buying committee. Which stakeholders and departments should I prioritize for relationship building to ensure successful adoption and expansion?
 
 Use this to identify roles like:
 
