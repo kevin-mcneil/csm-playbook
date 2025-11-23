@@ -22,7 +22,7 @@ Template structure:
 
 Generated from the AI Companion System prompt (Communication Template Prompt):
 
-A Quarterly Business Review summary email highlighting value delivered to their department
+A Quarterly Business Review summary email highlighting value delivered to their department.
 
 Template structure:
 
@@ -37,7 +37,7 @@ Template structure:
 
 Generated from the AI Companion System prompt (Communication Template Prompt):
 
-An at risk account message addressing potential adoption challenges
+An at risk account message addressing potential adoption challenges.
 
 Template structure:
 
@@ -53,7 +53,7 @@ Template structure:
 
 Generated from the AI Companion System prompt (Communication Template Prompt):
 
-An expansion opportunity message tied to their business objectives
+An expansion opportunity message tied to their business objectives.
 
 Template structure:
 
