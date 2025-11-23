@@ -1,7 +1,6 @@
 # Customer Success Manager Playbook
 
-A practical, day to day operating system for a Great Customer Success Manager in a technical or security adjacent business to business software as a service environment.  
-Designed for someone pivoting into Customer Success Management from a technical background.
+A practical, day to day operating system for a Great CSM in a technical or security adjacent B2B SaaS environment.  
 
 ## Documentation
 
