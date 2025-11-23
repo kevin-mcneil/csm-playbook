@@ -1,6 +1,4 @@
-**This section is the source of truth for all AI-driven prompts used throughout the playbook. Other sections (Email Templates, AI Prompts, Stakeholder Guides) reference these prompts and do not restate them.**
-
-Use an AI assistant such as ChatGPT as a CSM copilot to accelerate understanding and communication. This system has three phases.
+**Use an AI assistant such as ChatGPT as a CSM copilot to accelerate understanding and communication. This system has three phases.**
 
 ---
 
@@ -71,12 +69,8 @@ For each template:
 - Keep it under 150 words and easily scannable  
 - Use straightforward, jargon-free language.  
 
-You can then lightly edit the outputs to match:
+>You can then lightly edit the outputs to match:
 
-- Your tone  
-- Your product  
-- Your customer context  
-
----
-
-**All Email Templates and AI-generated communication structures in this playbook reference these three phases. They do not restate or reinterpret any prompt text.**
+>- Your tone  
+>- Your product  
+>- Your customer context  
